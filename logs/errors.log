@@ -375,4 +375,3 @@ socket hang up
 [2023-08-03T18:06:48.126] [ERROR] default - click action on mobile menu bar failed due to the following error: Error: 'mobile menu bar' element check failed due to the following error: Error: element ("//a[@href="#mmenu"]") still not existing after 60000ms
 [2023-08-04T10:26:37.392] [ERROR] default - click action on mobile menu bar failed due to the following error: element click intercepted: element click intercepted: Element <a href="#mmenu">...</a> is not clickable at point (372, 48). Other element would receive the click: <a class="websites1" href="javascript:void(0)">...</a>
   (Session info: chrome=83.0.4103.106)
-[2023-08-16T14:28:35.050] [ERROR] default - Get text action on 'link header' is failed due to the following error: Error: element ("div[class=banner-landing-page-title] > h1") still not existing after 30000ms
